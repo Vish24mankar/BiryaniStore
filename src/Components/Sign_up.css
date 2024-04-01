@@ -1,0 +1,38 @@
+.uSignUp
+{
+    border: 2px solid #930035;
+    border-radius: 30px 0px 30px 30px;
+    /* margin: 250px; */
+    margin: 60px 500px;
+    width: 480px;
+    padding: 30px;
+    height: 500px;
+}
+input{
+    width: 379px;
+    margin: 15px;
+    height: 43px;
+    text-align: center;
+}
+.nameData input{
+    border: 1px solid #930035;
+    width: 188px;
+    height: 40px;
+}
+.checkData input {
+    border: 1px solid #930035;
+    height: 15px;
+    margin-left: -400px;
+    margin-right: -170px;
+}
+.sbtn{
+    width: 380px;
+    background-color: #930035;
+    font-size: 15px;
+    padding: 6px;
+    color: #FFB600;
+    border: none;
+}
+.sbtn:hover{
+    color: white;
+}

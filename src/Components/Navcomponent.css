@@ -1,0 +1,68 @@
+.main{
+    background-color: #930035;
+    position: sticky;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    z-index: 1;
+    height: 90px;
+}
+.bbkLogo{
+    height: 65px;
+}
+.bbkLogo a img{
+    height: 75px;
+    /* margin-top: 20px; */
+    margin-left: 50px;
+}
+.logot1{
+    color: #FFB600;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 500;
+}
+.logot2{
+    color: #FFB600;
+    font-size: 16px;
+}
+.searchBox input{
+    height: 40px;
+    width: 220px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 250px;
+}
+.searchBox i {
+    font-size: 22px;
+    /* margin-left: 100px; */
+}
+.nav-menu {
+    margin-left: 380px;
+}
+.nav-menu li{
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    margin-right: 5px;
+}
+.nav-menu a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #FFB600;
+    padding: 10px;
+    margin-right: 3px;
+}
+.loginBtn{
+    
+}
+.loginBtn i{
+    /* color: #FFB600; */
+    color: white;
+    font-size: 18px;
+    margin-right: 20px;
+    margin-left: 12px;
+}
+.loginBtn i:hover{
+    color: #FFB600;
+    cursor: pointer;
+}

@@ -1,0 +1,48 @@
+.gmap{
+    height: 350px;
+    width: 350px;
+}
+.cForm{
+    border: 1px solid #930035;
+    padding: 25px;
+    border-radius: 3px;
+    width: 480px;
+}
+.cForm input{
+    border: 1px solid #930035;
+    /* color: #930035; */
+    text-align: center;
+    border-radius: 3px;
+    height: 40px;
+}
+.cFLName input {
+    width: 190px;
+    height: 40px;
+}
+.cEmail{
+    width: 385px;
+    height: 40px;
+}
+.cCity{
+    width: 385px;
+    height: 40px;
+}
+.ctxt textarea{
+    color: #930035;
+    border: 1px solid #930035;
+}
+.txtmsg{
+    text-align: center;
+}
+.sbtn1{
+    width: 386px;
+    background-color: #930035;
+    font-size: 15px;
+    padding: 6px;
+    color: #FFB600;
+    border: none;
+}
+.sbtn:hover{
+    color: white;
+    width: 387px;
+}

@@ -1,0 +1,21 @@
+.gMain{
+    width: 100%;
+}
+.sabMain{
+    width: 100%;
+}
+.gTitle{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 700;
+}
+.card{
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 25px;
+}
+/* 
+ */
+.card:hover{
+    cursor: pointer;
+}

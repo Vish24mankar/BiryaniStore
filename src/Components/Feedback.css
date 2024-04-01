@@ -1,0 +1,40 @@
+.cFeedback{
+    border: 1px solid #930035;
+    width: 450px;
+    height: 450px;
+    margin: 50px 430px;
+}
+.cFeedback .t1{
+    /* border: 1px solid #930035; */
+    color: #930035;
+    margin-right: 238px;
+    font-size: 17px;
+    font-family: bold;
+    font-weight: 700;
+}
+.cFeedback input{
+    border: 1px solid #930035;
+}
+.cFeedback .t2{
+    /* border: 1px solid #930035; */
+    color: #930035;
+    margin-right: 230px;
+    font-size: 17px;
+    font-family: bold;
+    font-weight: 700;
+}
+.ftxt textarea{
+    color: #930035;
+    border: 1px solid #930035;
+}
+.sbtn{
+    width: 30px;
+    background-color: #930035;
+    font-size: 15px;
+    padding: 6px;
+    color: #FFB600;
+    border: none;
+}
+.sbtn:hover{
+    color: white;
+}

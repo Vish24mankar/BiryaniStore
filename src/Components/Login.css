@@ -1,0 +1,42 @@
+.myForm{
+    border: 1px solid #930035;
+    border-radius: 5px;
+    width: 450px;
+    margin: 50px 500px;
+}
+.myForm .t1{
+    /* border: 1px solid #930035; */
+    color: #930035;
+    margin-right: 275px;
+    font-size: 17px;
+    font-family: bold;
+    font-weight: 700;
+}
+.myForm .t2{
+    /* border: 1px solid #930035; */
+    color: #930035;
+    margin-right: 305px;
+    font-size: 17px;
+    font-family: bold;
+    font-weight: 700;
+}
+.myForm  input{
+    border: 1px solid #930035;
+}
+.sbtn{
+    width: 380px;
+    background-color: #930035;
+    font-size: 15px;
+    padding: 6px;
+    color: #FFB600;
+    border: none;
+}
+.sbtn:hover{
+    color: white;
+}
+.myForm a{
+    color: #930035;   
+}
+.myForm a:hover{
+    color: #FFB600;
+}

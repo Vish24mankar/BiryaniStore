@@ -1,0 +1,27 @@
+.MenuCTitle{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 700;
+}
+.editFORM{
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: #FFB600;
+    box-shadow: 5px 5px 5px 1px;
+    width: 500px;
+    height: auto;
+}
+.editFORM label{
+    font-size: 20px;
+    font-style: italic;
+}
+.editFORM input{
+width: 247px;
+text-align: center;
+border-radius: 5px;
+height: 35px;
+font-style: italic;
+}
+/* button .addBTN{ 
+    float: right;
+} */

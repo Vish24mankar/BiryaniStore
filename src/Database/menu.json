@@ -1,0 +1,336 @@
+{
+  "Menu": [
+    {
+      "id": "101",
+      "mId": "C651",
+      "menuName": "Chiken-65",
+      "menuType": "Half/Full",
+      "menuHalf": 120,
+      "menuFull": "170"
+    },
+    {
+      "id": "102",
+      "mId": "CB2",
+      "menuName": "Chiken Biryani",
+      "menuType": "Half/Full",
+      "menuHalf": "250",
+      "menuFull": 700
+    },
+    {
+      "id": "103",
+      "mId": "EB3",
+      "menuName": "Egg Biryani",
+      "menuType": "Half/Full",
+      "menuHalf": 80,
+      "menuFull": 120
+    },
+    {
+      "id": "104",
+      "mId": "MB4",
+      "menuName": "Mutton Biryani",
+      "menuType": "Half/Full",
+      "menuHalf": "360",
+      "menuFull": "720"
+    },
+    {
+      "id": "105",
+      "mId": "test",
+      "menuName": "test",
+      "menuType": "test",
+      "menuHalf": "test",
+      "menuFull": "test"
+    },
+    {
+      "id": "f850",
+      "mId": "CB2",
+      "menuName": "Chiken Biryani",
+      "menuType": "Half/Full",
+      "menuHalf": "2500",
+      "menuFull": 700
+    },
+    {
+      "id": "4a65",
+      "mId": "hjkl1",
+      "menuName": "bnm,.",
+      "menuType": "m,.hjkl;",
+      "menuHalf": "jkl;bjhkl",
+      "menuFull": "bjnmk,l"
+    },
+    {
+      "id": "e1c3",
+      "menuType": "Half/Full"
+    },
+    {
+      "id": "adf3",
+      "mId": "s",
+      "menuName": "qsSAW",
+      "menuType": "fgh",
+      "menuHalf": "fghjk",
+      "menuFull": "fvbnm"
+    },
+    {
+      "id": "9575",
+      "Menu": [],
+      "mId": "456",
+      "menuName": "xfghh",
+      "menuType": "ertyu",
+      "menuHalf": "3000",
+      "menuFull": "790",
+      "showModal": false,
+      "addModalShow": true
+    },
+    {
+      "id": "df40",
+      "Menu": [],
+      "mId": "dfgh",
+      "menuName": "fgthykjl",
+      "menuType": "tyujiklo",
+      "menuHalf": "fghjkl",
+      "menuFull": "fghjk",
+      "showModal": false,
+      "addModalShow": true
+    },
+    {
+      "id": "abc3",
+      "Menu": [],
+      "mId": "3448",
+      "menuName": "gudnj",
+      "menuType": "Half/Full",
+      "menuHalf": "560",
+      "menuFull": "1100",
+      "showModal": false,
+      "addModalShow": true
+    }
+  ],
+  "feedback": [
+    {
+      "id": "1",
+      "uName": "rakesh",
+      "review": "such a good product i using last three year "
+    },
+    {
+      "id": "2",
+      "uName": "samadhan",
+      "review": "such a good product i using last three year"
+    },
+    {
+      "id": "2602",
+      "yourName": "",
+      "review": "sdzcb svkmdhcljsbcilnmx cuxgwlhihduhfjihc ldyqhs",
+      "uName": "sdzcs"
+    },
+    {
+      "id": "d70f",
+      "uName": "cvbnm,",
+      "review": "fghjkl; cvbnm,.dfghjklertyuioghjk"
+    },
+    {
+      "id": "ab60",
+      "uName": "cvbnm,;.';lkjhghjkl;'",
+      "review": "hgjkl;';lkjhgyuiop[][;lkjhbvnm,./.,mnbvfgyuiop["
+    },
+    {
+      "id": "619a",
+      "uName": "ghbjkl;'lkjhgfgyhu;l",
+      "review": "hgjkl;'.,m nbgfr5t6y7u8i9po0[-]l;,mnbvgftyuiop["
+    },
+    {
+      "id": "6c7a",
+      "uName": "gfhjkl;'/.,mnbghjkl;",
+      "review": "vbnjmkl;'lkjhgtyuiop["
+    },
+    {
+      "id": "f32d",
+      "uName": "hjkl;'/.,nbvghjui';pfghjkl",
+      "review": "ghjkl;'lbfyuiop[;'l,mnbghjkl;'\n"
+    },
+    {
+      "id": "367e",
+      "uName": "fghjkl;",
+      "review": "fghjkl;'dfghjkl;yuiocvbnm,.cvbnm,dfghjkxcvbnm,"
+    }
+  ],
+  "Contact": [
+    {
+      "id": "201",
+      "cFName": "Vishakha",
+      "cLName": "mankar",
+      "cEmail": "vish24mankar@gmail.com",
+      "cCity": "pune",
+      "cMessge": "such a good product i using last three year your product  best quality and very good service"
+    },
+    {
+      "id": "202",
+      "cFName": "Amruta",
+      "cLName": "Patil",
+      "cEmail": "amruta32patil@gmail.com",
+      "cCity": "mumbai",
+      "cMessge": " best quality and very good service"
+    },
+    {
+      "id": "b5c7",
+      "cFName": "sq",
+      "cLName": "s",
+      "cEmail": "",
+      "cCity": "",
+      "cMessge": ""
+    },
+    {
+      "id": "90be",
+      "cFName": "sq",
+      "cLName": "s",
+      "cEmail": "vish@gmail.com",
+      "cCity": "Karve Nagar",
+      "cMessge": "asJ zjlckszdnc;ks rijgip5trjg\n"
+    }
+  ],
+  "User": [
+    {
+      "id": "1",
+      "uEmail": "vish24mankar@gmail.com",
+      "uPassword": "vish123"
+    },
+    {
+      "id": "2",
+      "uEmail": "visha32mankar@gmail.com",
+      "uPassword": "visha123"
+    },
+    {
+      "id": "88a6",
+      "uFirstName": "cvbvnm",
+      "uLastName": "cvbn",
+      "uEmail": "bcdhbc@gmail.com",
+      "uPassword": "admin123",
+      "uDateOfBirth": "2024-03-22",
+      "uContact": "9765223448"
+    },
+    {
+      "id": "",
+      "uId": "",
+      "uFirstName": "vaidehi",
+      "uLastName": "patil",
+      "uEmail": "vaidehipatil@gmail.com",
+      "uPassword": "vaidehi123",
+      "uDateOfBirth": "2024-03-22",
+      "uContact": "9130410155"
+    },
+    {
+      "id": "8c41",
+      "uId": "cvdsbgfnhmj",
+      "uFirstName": "chvjbhknjhl",
+      "uLastName": "vcbvn",
+      "uEmail": "cxvb@gmail.com",
+      "uPassword": "cxvcbn",
+      "uDateOfBirth": "2024-03-22",
+      "uContact": "9130410155"
+    },
+    {
+      "id": "",
+      "uId": "",
+      "uFirstName": "fghj",
+      "uLastName": "fghj",
+      "uEmail": "dfghj@gamil.com",
+      "uPassword": "cvbn",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9765223448"
+    }
+  ],
+  "User1": [
+    {
+      "id": "1",
+      "uFirstName": "Vishakha",
+      "uLastName": "Mankar",
+      "uEmail": "vish24mankar@gmail.com",
+      "uPassword": "vish123",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9765223448"
+    },
+    {
+      "id": "",
+      "uFirstName": "amruta",
+      "uLastName": "patil",
+      "uEmail": "amruta@patilgmail.com",
+      "uPassword": "amruta",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9130410155"
+    },
+    {
+      "id": "",
+      "uFirstName": "advik",
+      "uLastName": "kharat",
+      "uEmail": "ad32kharat@gmail.com",
+      "uPassword": "ad123",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9130410155"
+    },
+    {
+      "id": null,
+      "uFirstName": "riya",
+      "uLastName": "desmukh",
+      "uEmail": "riyadeshmukh@yahoo.com",
+      "uPassword": "riya",
+      "uDateOfBirth": "2006-07-13",
+      "uContact": "9130410155"
+    },
+    {
+      "id": null,
+      "uFirstName": "sita",
+      "uLastName": "rthgg",
+      "uEmail": "sita@yahoo.com",
+      "uPassword": "sita123",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9765223448",
+      "saveData": true
+    },
+    {
+      "id": null,
+      "uFirstName": "sita",
+      "uLastName": "rthgg",
+      "uEmail": "sita@yahoo.com",
+      "uPassword": "sita123",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9765223448",
+      "saveData": true
+    },
+    {
+      "id": null,
+      "uFirstName": "sita",
+      "uLastName": "patil",
+      "uEmail": "sita@yahoo.com",
+      "uPassword": "sita123",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9130410155",
+      "saveData": true
+    },
+    {
+      "id": null,
+      "uFirstName": "vbnm",
+      "uLastName": "sdf",
+      "uEmail": "sdf@gmail.com",
+      "uPassword": "asd",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9130410155",
+      "saveData": true
+    },
+    {
+      "id": null,
+      "uFirstName": "xcv",
+      "uLastName": "cvb",
+      "uEmail": "cvb@yahoo.com",
+      "uPassword": "cvb123",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9765223448",
+      "saveData": true
+    },
+    {
+      "id": null,
+      "uFirstName": "sdfgh",
+      "uLastName": "fghjkl",
+      "uEmail": "vish24mankar@gmail.com",
+      "uPassword": "admin123",
+      "uDateOfBirth": "2024-03-23",
+      "uContact": "9130410155",
+      "saveData": true
+    }
+  ]
+}
