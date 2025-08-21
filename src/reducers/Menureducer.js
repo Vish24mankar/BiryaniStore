@@ -16,10 +16,11 @@ export default function menureducer(state = initialState, action){
             // return draft;
             return {...state,Menu:{},allMenu:action.payload};
         }
-        case constant.GET_MENU_ERROR,
-        constant.ADD_MENU_ERROR,
-        constant.UPDATE_MENU_ERROR,
-        constant.DELETE_MENU_ERROR:{
+            
+        case constant.GET_MENU_ERROR:
+        case constant.ADD_MENU_ERROR:
+        case constant.UPDATE_MENU_ERROR:
+        case constant.DELETE_MENU_ERROR: {
             // state.error = action.payload;
             // state.Menu = {}
             // return state;
@@ -27,8 +28,8 @@ export default function menureducer(state = initialState, action){
             // draft.error =action.payload;
             // draft.Menu={};
             // return draft;
-                return {...state, Menu:{},error:action.payload};
-        }
+                 return { ...state, Menu: {}, error: action.payload };
+}
 
     // delete menu 
     case constant.DELETE_MENU_SUCCESS:{
