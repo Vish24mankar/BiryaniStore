@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 // font awesome 
 import '../node_modules/font-awesome/css/font-awesome.min.css';
-import ConstData from './Shared/ConstData';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
